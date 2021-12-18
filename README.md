@@ -26,3 +26,4 @@ chiffré de Vi contenant (I, B). Sa tâche consiste à déchiffrer les deux mess
 possibilité d’identifier Vi. Si après déchiffrement les deux messages sont égaux à (I, B)
 alors le vote de Vi sera validé. Les clés privée et publique de DE sont KprDE et KpDE
 . 
+![page_principale](https://user-images.githubusercontent.com/76055517/146623052-91cc2d48-bbab-4c6e-a4e7-9499f406d3d1.PNG)
