@@ -4,6 +4,7 @@ deux autorités centrales séparées. Une autorité pour identifier les votants 
 les votes. Aucune des deux autorités n’a assez de pouvoir pour tricher de son propre chef.
 
 Enoncé du projet :
+
 Dans une entreprise multinationale, son PDG (président-directeur général) désire organiser
 un vote à distance électronique entre ces personnelles pour élire un nouveau responsable
 dans son siège. Pour cela, un ensemble de n correspondant ou personnels désirent voter un
