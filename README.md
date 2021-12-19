@@ -1,4 +1,5 @@
-# Application-de-vote-ectronique-securise_Avec_JEE
+# Application-de-vote-electronique-securise_Avec_JEE
+Application de vote electronique securise Avec JEE
 Développer une application web qui met en place un système de vote électronique sécurisé avec deux 
 autorités centrales séparées. Une autorité pour identifier les votants et l’autre pour compter 
 les votes. Aucune des deux autorités n’a assez de pouvoir pour tricher de son propre chef.
